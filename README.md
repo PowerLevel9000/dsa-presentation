@@ -63,7 +63,7 @@
 
   - we make our shorting hat function and ask for improvement for edge cases
   - files
-    - <a href="">`stack.js`</a> And <a href="">`shorting-hat.js`</a>
+    - <a href="https://github.com/PowerLevel9000/dsa-presentation/blob/main/stack-week-1/stack.js">`stack.js`</a> And <a href="https://github.com/PowerLevel9000/dsa-presentation/blob/main/shorting-hat.js">`shorting-hat.js`</a>
 
 
 <br><hr>
@@ -78,5 +78,5 @@
 # Happy Coding
 
 <div align=center>
-    
+   <img width="50%" src="https://user-images.githubusercontent.com/116451144/230811422-7659ed14-b96f-4439-ba36-a5d7ba43d0fd.gif">
 </div>
