@@ -31,7 +31,52 @@
   # NEXT WEEK PRESENTATION 
 
   ## A presentation on Queue Data Structure
+  <br>
 
-  ## week 0 info
+  <div align=center>
+    <img width="100%" src="queue-week-2\imges\queue-dsa.jpg">
+  </div>
+  <div align=center>
+    <img width="100%" src="queue-week-2\imges\queue-dsa-b.jpg">
+  </div>
+  <hr>
+  <br>
+
+  - [ ] we will Create And  discuses about queue Data Structure in community programming 
+  - [ ] Solve At leasts two coding challenge if we have time left 
+
+<br><hr>
+
+  ## week - 1 info
+  <div align=center>
+    <img width="100%" src="stack-week-1\img\stack.webp">
+  </div>
+
+  - date `2020-04-09` and we discuses about `Stack` 
+    - we create stack class with various stack function such as 
+      -  push
+      -  pop
+      -  isEmpty
+      -  clear
+      -  last removed
+      -  etc 
+
+  - we make our shorting hat function and ask for improvement for edge cases
+  - files
+    - <a href="">`stack.js`</a> And <a href="">`shorting-hat.js`</a>
+
+
+<br><hr>
+
+## week - 0 info
+  
   - date `2022-04-02` and we discuses about time complexity
   - no coding just intro and some fun stuffs
+
+<br><hr>
+
+# Happy Coding
+
+<div align=center>
+    
+</div>
