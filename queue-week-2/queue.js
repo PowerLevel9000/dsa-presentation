@@ -47,7 +47,7 @@ class Queue {
 }
 
 const queue1 = new Queue();
-// queue1.isEmpty()
+queue1.isEmpty()
 queue1.insert(100);
 queue1.insert(300);
 queue1.insert(200);
@@ -55,15 +55,15 @@ queue1.insert(400);
 queue1.insert(800);
 queue1.insert(900);
 console.log(queue1)
-// queue1.remove()
-// queue1.remove()
-// queue1.remove()
-// queue1.remove()
+queue1.remove()
+queue1.remove()
+queue1.remove()
+queue1.remove()
 
-// queue1.isEmpty()
+queue1.isEmpty()
 
-// queue1.peek()
-// console.log(queue1)
+queue1.peek()
+console.log(queue1)
 
-// queue1.clear()
-// console.log(queue1)
+queue1.clear()
+console.log(queue1)
