@@ -1,6 +1,6 @@
 class Queue {
   constructor() {
-    this.items = new Array(5);
+    this.items = new Array(100);
     this.front = 0;
     this.rear = 0;
   }
@@ -17,7 +17,7 @@ class Queue {
 
   remove() {
     if (this.front === this.rear) {
-      return null;
+      return "you queue is empty";
     }
     const removedItem = this.items[this.front];
     delete this.items[this.front];
@@ -47,23 +47,23 @@ class Queue {
 }
 
 const queue1 = new Queue();
-queue1.isEmpty()
-queue1.insert(100);
-queue1.insert(300);
-queue1.insert(200);
-queue1.insert(400);
-queue1.insert(800);
-queue1.insert(900);
-console.log(queue1)
-queue1.remove()
+// queue1.isEmpty()
+// queue1.insert(100);
+// queue1.insert(300);
+// queue1.insert(200);
+// queue1.insert(400);
+// queue1.insert(800);
+// queue1.insert(900);
+// console.log(queue1)
+console.log(queue1.remove())
 queue1.remove()
 queue1.remove()
 queue1.remove()
 
 queue1.isEmpty()
 
-queue1.peek()
-console.log(queue1)
+// queue1.peek()
+// console.log(queue1)
 
-queue1.clear()
-console.log(queue1)
+// queue1.clear()
+// console.log(queue1)

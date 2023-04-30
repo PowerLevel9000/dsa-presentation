@@ -15,7 +15,7 @@ class Stack {
     // Return and remove top element in stack
     // Return undefined if stack is empty
     pop() {
-        if(this.count == 0) return undefined
+        if (this.count == 0) return undefined
         let deleteItem = this.items[this.count - 1]
         this.count -= 1
         console.log(`${deleteItem} removed`)
@@ -42,12 +42,8 @@ class Stack {
 
     // Print elements in stack
     print() {
-        let str = ''
-        for(let i = 0; i < this.count; i++) {
-            str += this.items[i] + ' '
-        }
-        console.log(this.items)
-        return str
+        const str = this.items.splice(0, this.count)
+        return str.join(' ')
     }
 
     // Clear stack
@@ -60,7 +56,9 @@ class Stack {
 
     // last removed
     lastRemoved() {
-        if(this.items.length === 0) return "you have cleared the stack";
+        if (this.items.length === 0) {
+            return "you have cleared the stack";
+        }
         return `${this.items[this.count]} is last removed`;
     }
 }
@@ -76,11 +74,9 @@ stack.peek()
 
 stack.push(300)
 
+stack.peek()
 
 
-
-stack.pop()
-stack.pop()
 console.log(stack.print())
 stack.clear()
 
