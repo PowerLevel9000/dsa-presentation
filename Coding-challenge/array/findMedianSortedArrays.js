@@ -52,8 +52,8 @@ const findMedianSortedArraysImprove = (nums1, nums2) => {
 
 const sortMerge = (arr1, arr2) => {
     const result = [];
-    const pointer1 = 0;
-    const pointer2 = 0;
+    let pointer1 = 0;
+    let pointer2 = 0;
 
     while (pointer1 < arr1.length && pointer2 < arr2.length) {
         if (arr1[pointer1] < arr2[pointer2]) {
