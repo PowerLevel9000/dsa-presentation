@@ -1,4 +1,4 @@
-const minMaxSum = require('../week-1-hacker/minMaxSum');
+const minMaxSum = require('../../week-1-hacker/minMaxSum');
 
 describe('minMaxSum', () => {
     test('should return 10 14', () => {

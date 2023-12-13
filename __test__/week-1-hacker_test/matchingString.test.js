@@ -1,4 +1,4 @@
-const matchingString = require('../week-1-hacker/matchingString');
+const matchingString = require('../../week-1-hacker/matchingString');
 
 describe('matchingString', () => {
     test('should return 2 1 0', () => {

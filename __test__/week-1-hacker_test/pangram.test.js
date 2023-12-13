@@ -1,4 +1,4 @@
-const pangram = require('../week-1-hacker/pangram');
+const pangram = require('../../week-1-hacker/pangram');
 
 describe('pangram', () => {
     test('should return "pangram"', () => {

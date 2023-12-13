@@ -1,4 +1,4 @@
-const plusMinus = require("../week-1-hacker/plusMinus");
+const plusMinus = require("../../week-1-hacker/plusMinus");
 
 describe("plusMinus", () => {
     test("should return 0.500000 0.333333 0.166667", () => {

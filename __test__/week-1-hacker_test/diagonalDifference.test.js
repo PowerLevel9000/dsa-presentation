@@ -1,4 +1,4 @@
-const diagonalDifference = require('../week-1-hacker/diagonalDifference');
+const diagonalDifference = require('../../week-1-hacker/diagonalDifference');
 
 describe('diagonalDifference', () => {
     test('should return 15', () => {

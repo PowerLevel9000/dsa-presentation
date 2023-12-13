@@ -1,4 +1,4 @@
-const birthday = require('../week-1-hacker/birthday');
+const birthday = require('../../week-1-hacker/birthday');
 
 describe('birthday', () => {
    test('should return 2', () => {
