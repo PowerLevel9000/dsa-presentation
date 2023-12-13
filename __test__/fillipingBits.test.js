@@ -1,4 +1,4 @@
-const fillipingBits = require('../fillipingBits');
+const fillipingBits = require('../week-1-hacker/fillipingBits');
 
 describe('fillipingBits', () => {
     test('should return 2147483648', () => {

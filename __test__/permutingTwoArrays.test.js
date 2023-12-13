@@ -1,4 +1,4 @@
-const permutingTwoArrays = require('../permutingTwoArrays');
+const permutingTwoArrays = require('../week-1-hacker/permutingTwoArrays');
 
 describe('permutingTwoArrays', () => {
     test('should return YES if the arrays can be permuted to satisfy the condtestion', () => {

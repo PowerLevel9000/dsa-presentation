@@ -1,4 +1,4 @@
-const lonelyInteger = require('../lonelyInteger');
+const lonelyInteger = require('../week-1-hacker/lonelyInteger');
 
 describe('lonelyInteger', () => {
     test('should return 4', () => {

@@ -1,4 +1,4 @@
-const countingSort = require('../countingSort');
+const countingSort = require('../week-1-hacker/countingSort');
 
 describe('countingSort', () => {
     test('should return [1, 2, 3, 4, 5]', () => {
