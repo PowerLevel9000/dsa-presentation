@@ -1,0 +1,9 @@
+[submodule "fizzbuzz-PowerLevel9000"]
+	path = fizzbuzz-PowerLevel9000
+	url = https://github.com/microverse-students/fizzbuzz-PowerLevel9000
+[submodule "anagram-PowerLevel9000"]
+	path = anagram-PowerLevel9000
+	url = https://github.com/microverse-students/anagram-PowerLevel9000.git
+[submodule "palindrome-PowerLevel9000"]
+	path = palindrome-PowerLevel9000
+	url = https://github.com/microverse-students/palindrome-PowerLevel9000.git
