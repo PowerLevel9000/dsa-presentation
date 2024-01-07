@@ -7,3 +7,9 @@
 [submodule "palindrome-PowerLevel9000"]
 	path = palindrome-PowerLevel9000
 	url = https://github.com/microverse-students/palindrome-PowerLevel9000.git
+[submodule "repeat-a-string-PowerLevel9000"]
+	path = repeat-a-string-PowerLevel9000
+	url = https://github.com/microverse-students/repeat-a-string-PowerLevel9000
+[submodule "sum-all-odd-fibonacci-numbers-PowerLevel9000"]
+	path = sum-all-odd-fibonacci-numbers-PowerLevel9000
+	url = https://github.com/microverse-students/sum-all-odd-fibonacci-numbers-PowerLevel9000.git
