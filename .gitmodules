@@ -13,3 +13,9 @@
 [submodule "sum-all-odd-fibonacci-numbers-PowerLevel9000"]
 	path = sum-all-odd-fibonacci-numbers-PowerLevel9000
 	url = https://github.com/microverse-students/sum-all-odd-fibonacci-numbers-PowerLevel9000.git
+[submodule "linked-lists-PowerLevel9000"]
+	path = linked-lists-PowerLevel9000
+	url = https://github.com/microverse-students/linked-lists-PowerLevel9000.git
+[submodule "linked-lists-next-step-PowerLevel9000"]
+	path = linked-lists-next-step-PowerLevel9000
+	url = https://github.com/microverse-students/linked-lists-next-step-PowerLevel9000.git
